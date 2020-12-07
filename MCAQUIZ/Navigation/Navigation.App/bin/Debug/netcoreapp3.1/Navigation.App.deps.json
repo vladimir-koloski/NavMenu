@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Navigation.App/1.0.0": {
+        "dependencies": {
+          "Navigation.Services": "1.0.0"
+        },
+        "runtime": {
+          "Navigation.App.dll": {}
+        }
+      },
+      "Navigation.Services/1.0.0": {
+        "runtime": {
+          "Navigation.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Navigation.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Navigation.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

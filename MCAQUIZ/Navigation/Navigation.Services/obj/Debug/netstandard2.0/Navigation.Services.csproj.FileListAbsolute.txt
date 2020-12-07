@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\MCA QUIZ\Navigation\Navigation.Services\bin\Debug\netstandard2.0\Navigation.Services.deps.json
+C:\Users\User\Desktop\MCA QUIZ\Navigation\Navigation.Services\bin\Debug\netstandard2.0\Navigation.Services.dll
+C:\Users\User\Desktop\MCA QUIZ\Navigation\Navigation.Services\bin\Debug\netstandard2.0\Navigation.Services.pdb
+C:\Users\User\Desktop\MCA QUIZ\Navigation\Navigation.Services\obj\Debug\netstandard2.0\Navigation.Services.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MCA QUIZ\Navigation\Navigation.Services\obj\Debug\netstandard2.0\Navigation.Services.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MCA QUIZ\Navigation\Navigation.Services\obj\Debug\netstandard2.0\Navigation.Services.AssemblyInfo.cs
+C:\Users\User\Desktop\MCA QUIZ\Navigation\Navigation.Services\obj\Debug\netstandard2.0\Navigation.Services.dll
+C:\Users\User\Desktop\MCA QUIZ\Navigation\Navigation.Services\obj\Debug\netstandard2.0\Navigation.Services.pdb
